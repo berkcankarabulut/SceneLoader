@@ -13,7 +13,7 @@
 
   <h2>📦 Installation</h2>
     <p>1. <strong>Clone this repository:</strong></p>
-    <pre><code>git clone https://github.com/YOUR_USERNAME/SceneLoaderSystem.git</code></pre>
+    <pre><code>git clone https://github.com/berkcankarabulut/SceneLoaderSystem.git</code></pre>
     <p>2. <strong>Add it to your Unity project.</strong></p>
     <p>3. <strong>Attach the <code>SceneLoader</code> component to a GameObject.</strong></p>
     <p>4. <strong>Configure settings via the Unity Inspector.</strong></p>
