@@ -4,7 +4,7 @@
   "displayName": "Scene Loader",
   "description": "A Unity package for loading scenes asynchronously.",
   "author": {
-    "name": "Berkcan Karabulut",
+    "name": "BerkcanKarabulut",
     "url": "https://github.com/berkcankarabulut"
   },
   "dependencies": {}
