@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine.SceneManagement; 
 using Project.SceneLoadSystem.Runtime;
 
-namespace Project.SceneLoadSystem.Editor
+namespace SceneLoadSystem.Editor
 { 
     [CustomEditor(typeof(SceneLoader))]
     public class SceneLoaderEditor : UnityEditor.Editor
