@@ -1,6 +1,6 @@
 {
-    "name": "Project.SceneLoadSystem.Runtime",
-    "rootNamespace": "Project.SceneLoadSystem.Runtime",
+    "name": "SceneLoadSystem.Runtime",
+    "rootNamespace": "SceneLoadSystem.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
