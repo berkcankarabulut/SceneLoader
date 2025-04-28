@@ -1,6 +1,6 @@
 {
-    "name": "Project.SceneLoadSystem.Editor",
-    "rootNamespace": "Project.SceneLoadSystem.Editor",
+    "name": "SceneLoadSystem.Editor",
+    "rootNamespace": "SceneLoadSystem.Editor",
     "references": [
         "GUID:5564ccf4aa9a493469b0ab07d3850ba2"
     ],
