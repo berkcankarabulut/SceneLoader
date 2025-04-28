@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 using UnityEngine.SceneManagement; 
-using Project.SceneLoadSystem.Runtime;
+using SceneLoadSystem.Runtime;
 
 namespace SceneLoadSystem.Editor
 { 
