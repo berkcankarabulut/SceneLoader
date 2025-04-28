@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
 
-namespace Project.SceneLoadSystem.Runtime
+namespace SceneLoadSystem.Runtime
 {
     public class SceneLoader : MonoBehaviour
     {   
