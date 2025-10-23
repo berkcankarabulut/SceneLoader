@@ -41,7 +41,7 @@ namespace SceneLoadSystem.Runtime
         private IEnumerator LoadSceneAsync()
         {
             yield return null;
-            if (_unLoadSceneIfAlreadyLoaded && _loadedScene != null)
+            if (_unLoadSceneIfAlreadyLoaded && _loadedScene.IsValid())
                 SceneManager.UnloadSceneAsync(_loadedScene); 
             
             SceneManager.sceneLoaded += OnSceneLoaded;
