@@ -1,6 +1,6 @@
 {
   "name": "com.berkcankarabulut.sceneloader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "Scene Loader",
   "description": "A Unity package for loading scenes asynchronously.",
   "author": {
